@@ -1,0 +1,42 @@
+secim 12
+
+kitapad 12
+yazar 12
+turu 12
+sayfa 12
+basimyili 12
+
+
+sayi 123456
+toplam 1234
+fark 1
+carpim 1
+kenar 1
+alan 12
+cevre 12
+s 123
+ort 1
+ortalama
+misir
+kola
+su
+tb
+ob
+maas
+yenimaas
+zamyuzde
+yaricap 1
+pi 1
+saat
+kitapfiyat
+satis
+toplamborc
+sayac1
+
+i 123456789 10
+j 12345
+k 12
+l
+n 1
+
+faktoriyel 1
